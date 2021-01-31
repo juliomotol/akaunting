@@ -71,10 +71,10 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 /node_modules
-/public/hot
-/public/storage
-/public/js
-/public/mix-manifest.json
+# /public/hot
+# /public/storage
+# /public/js
+# /public/mix-manifest.json
 /storage/*.key
 /vendor
 /.idea
